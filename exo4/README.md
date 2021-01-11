@@ -7,3 +7,19 @@ Le DevOps permet d'augmenter la production et la qualité en mettant en place de
 Des push réguliers, sur différentes branches si besoin. Une norme de code à respecter, notamment sur la taille des fonctions. Bien sûr de la documentation avant chaque fonction. Il est possible de mettre en place un outil qui va vérifier la norme à chaque push, ce qui permet d'apporter les correctifs au fur et à mesure du projet.
 
 3. Quelles sont les différentes étapes que vous mettriez en œuvre pour créer un pipeline d'intégration continue ?
+
+Comme pour toutes les nouvelles compétences que j'acquière, je commencerais par suivre un tutoriel OpenClassRooms.
+
+(https://openclassrooms.com/fr/courses/2035736-mettez-en-place-lintegration-et-la-livraison-continues-avec-la-demarche-devops/6182691-quest-ce-que-lintegration-continue)
+
+Donc en l'occurrence :
+
+    Planifiez votre développement.
+
+    Compilez et intégrez votre code.
+
+    Testez votre code.
+
+    Mesurez la qualité de votre code.
+
+    Gérez les livrables de votre application.
