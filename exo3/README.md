@@ -14,5 +14,7 @@ On peut alors appliquer des algorithmes d'augmentation sur les images déjà en 
 
 Voilà différents outils qui permettent d'augmenter une banque d'image.
 https://github.com/albumentations-team/albumentations
+
 https://github.com/takmin/DataAugmentation
+
 https://github.com/aleju/imgaug#installation
